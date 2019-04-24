@@ -204,7 +204,7 @@ is InstaUser's default
 [CSRNG](http://en.wikipedia.org/wiki/Cryptographically_secure_pseudorandom_number_generator),
 [Hash_DRBG](http://csrc.nist.gov/publications/nistpubs/800-90A/SP800-90A.pdf).
 
-Previously, InstaUser (back when it was knowsn as "DAuth") had included its
+Previously, InstaUser (back when it was known as "DAuth") had included its
 own implementation of SHA2, but that implementaion has since been folded into
 Phobos and is no longer part of InstaUser.
 
